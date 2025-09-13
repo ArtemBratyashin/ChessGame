@@ -15,7 +15,7 @@ This project is a C language implementation of a chess pathfinding algorithm for
 2. **Output:** If a safe path exists, the program prints the sequence of knight moves. If not, an error message is shown.
 
 ## Example
-1. **Input:**
+1. **Input:**<br>
 'a1'<br> 'h8'<br> '2'<br> 'd4'<br> 'f7'
 3. **Output:** 
 a1 b3 c5 d7 f6 h8
