@@ -16,10 +16,6 @@ This project is a C language implementation of a chess pathfinding algorithm for
 
 ## Example
 1. **Input:**
-     'a1'
-     'h8'
-     '2'
-     'd4'
-     'f7'
+'a1'  'h8'  '2'  'd4'  'f7'
 3. **Output:** 
 a1 b3 c5 d7 f6 h8
