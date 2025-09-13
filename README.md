@@ -22,3 +22,5 @@ You can run and test this program online without installing anything:
 'a1'<br> 'h8'<br> '2'<br> 'a2'<br> 'c5'
 2. **Output:** <br>
 'a1 c2 e1 g2 f4 g6 h8'
+
+![Example image](example.jpg)
