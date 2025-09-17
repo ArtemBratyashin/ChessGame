@@ -14,13 +14,11 @@ This project is a C language implementation of a chess pathfinding algorithm for
    - Each bishop's position (e.g., `d4`)
 2. **Output:** If a safe path exists, the program prints the sequence of knight moves. If not, an error message is shown.
 
-## Example
-1. **Input:**<br>
-'a1'<br> 'h8'<br> '2'<br> 'a2'<br> 'c5'
-3. **Output:** <br>
-'a1 h8 2 d4 f7'
-
 ## Demo
-
 You can run and test this program online without installing anything:
 **[Try it on OnlineGDB](https://onlinegdb.com/uu5Mfnm6c)**
+
+1. **Input:**<br>
+'a1'<br> 'h8'<br> '2'<br> 'a2'<br> 'c5'
+2. **Output:** <br>
+'a1 h8 2 d4 f7'
